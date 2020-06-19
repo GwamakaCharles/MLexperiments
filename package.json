@@ -4,7 +4,7 @@
   "private": false,
   "license": "MIT",
   "author": "Gwamaka Charles (https://www.linkedin.com/in/GwamakaCharles/)",
-  "homepage": "https://trekhleb.github.io/machine-learning-experiments/",
+  "homepage": "https://gwamakacharles.github.io/machine-learning-experiments/",
   "dependencies": {
     "@material-ui/core": "^4.6.1",
     "@material-ui/icons": "^4.5.1",
