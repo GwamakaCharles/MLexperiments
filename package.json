@@ -48,7 +48,7 @@
     "lint": "eslint ./src",
     "ci": "yarn lint && yarn flow",
     "predeploy": "yarn build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d ./build"
   },
   "browserslist": {
     "production": [
